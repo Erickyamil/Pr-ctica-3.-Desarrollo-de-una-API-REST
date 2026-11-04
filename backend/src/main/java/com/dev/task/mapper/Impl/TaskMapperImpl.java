@@ -1,4 +1,4 @@
-package com.dev.task.mapper.impl;
+package com.dev.task.mapper.Impl;
 
 import com.dev.task.domain.CreateTaskRequest;
 import com.dev.task.domain.UpdateTaskRequest;
